@@ -12,12 +12,17 @@ Para saber por que e llegado a publicar este repositorio tan basico, [Mira aqui]
 
 * **AutoDestroy.cs** | Autodestruye un objeto.
 ![001](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/AutoDestroy.gif)
----
-* **AutoIntensidadLight.cs** | Auto aumenta y disminuye la intensidad de la luz.
-![002](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/AutoIntensidad.gif)
----
-* **AutoMove.cs** | Mueve un objeto de un punto A(Actual) a un punto B(Destino).
-![003](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/AutoMove.gif)
+
 ---
 
-[1]: www.localhost:1313.com
+* **AutoIntensidadLight.cs** | Auto aumenta y disminuye la intensidad de la luz.
+![002](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/AutoIntensidad.gif)
+
+---
+
+* **AutoMove.cs** | Mueve un objeto de un punto A(Actual) a un punto B(Destino).
+![003](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/AutoMove.gif)
+
+---
+
+[1]: http://lpinchol.github.io/post/m-dev-script/
