@@ -11,7 +11,7 @@
 using UnityEngine;
 #endregion
 
-namespace MoonPincho
+namespace MoonPincho.MDevScripts
 {
 	/// <summary>
 	/// <para>Rota el objeto en la direccion dada</para>

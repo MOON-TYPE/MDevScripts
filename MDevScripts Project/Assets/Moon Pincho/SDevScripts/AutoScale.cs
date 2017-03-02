@@ -1,18 +1,21 @@
 ﻿//                                  ┌∩┐(◣_◢)┌∩┐
 //																				\\
-// AutoScale.cs (00/00/0000)													\\
+// AutoScale.cs (02/03/2017)													\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
-// Descripcion:																	\\
-// Fecha Mod:		00/00/0000													\\
-// Ultima Mod:																	\\
+// Descripcion:		Auto escalado del objeto									\\
+// Fecha Mod:		02/03/2017													\\
+// Ultima Mod:		Version Inicial												\\
 //******************************************************************************\\
 
 #region Librerias
 using UnityEngine;
 #endregion
 
-namespace MoonPincho
+namespace MoonPincho.MDevScripts
 {
+	/// <summary>
+	/// <para>Auto escalado del objeto</para>
+	/// </summary>
 	public class AutoScale : MonoBehaviour 
 	{
 
