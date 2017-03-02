@@ -1,4 +1,4 @@
-﻿//                                  ┌∩┐(◣_◢)┌∩┐
+//                                  ┌∩┐(◣_◢)┌∩┐
 //																				\\
 // AutoScale.cs (02/03/2017)													\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
