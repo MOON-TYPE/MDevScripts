@@ -2,7 +2,6 @@
 ---
 Scripts básicos con los que formar un prototipo rápido y probar varias mecánicas en poco tiempo.
 
-Para saber por que e llegado a publicar este repositorio tan basico, [Mira aqui][1]
 
 ## Informacion util
 
@@ -25,4 +24,3 @@ Para saber por que e llegado a publicar este repositorio tan basico, [Mira aqui]
 
 ---
 
-[1]: http://lpinchol.github.io/post/m-dev-script/
