@@ -24,3 +24,21 @@ Scripts básicos con los que formar un prototipo rápido y probar varias mecáni
 
 ---
 
+* **AutoRotate.cs** | Rota un objeto en la direccion que se le da.
+![004](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/AutoRotate.gif)
+
+---
+
+* **AutoScale.cs** | Escala el objeto con unos parametros dados.
+![005](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/AutoScale.gif)
+
+---
+
+* **DrawRay.cs** | Dibuja un rayo de un punto A(Actual) a un punto B(Destino).
+![006](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/DrawRay.gif)
+
+---
+
+* **BillBoard.cs** | Rota el objeto para que este siempre mirando al objetivo.
+![007](https://github.com/MOON-TYPE/MDevScripts/blob/master/Res/BillBoard.gif)
+
