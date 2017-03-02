@@ -190,6 +190,7 @@ GameObject:
   - component: {fileID: 335842783}
   - component: {fileID: 335842785}
   - component: {fileID: 335842786}
+  - component: {fileID: 335842787}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -222,7 +223,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: dcb390c7e886dae429f021eaf3cb1e0a, type: 2}
+  - {fileID: 2100000, guid: 094a493aa10205a478379b699586b4d5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -346,15 +347,30 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 335842777}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3d72f427261bdcd4d8a672db9a05a1a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotacion: {x: 0, y: 5, z: 0}
-  velocidad: {x: 0, y: 0, z: 0}
+  rotacion: {x: 0, y: 30, z: 0}
+  velocidad: {x: 0, y: 50, z: 0}
   isLocal: 1
-  isVelRandom: 1
+  isVelRandom: 0
+  isLoop: 1
+--- !u!114 &335842787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 335842777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa48f1139cd0c14bb5b1dd4005b163a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetivo: {x: 2, y: 2, z: 2}
+  tiempo: 2
+  delay: 1
   isLoop: 1
 --- !u!1 &2051341391
 GameObject:
