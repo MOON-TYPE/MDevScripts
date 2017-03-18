@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/MOON-TYPE/MDevScripts.svg)](https://github.com/MOON-TYPE/MDevScripts/issues)
+[![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MOON-TYPE/MDevScripts/master/LICENSE)
+
 # MDevScripts
 ---
 Scripts básicos con los que formar un prototipo rápido y probar varias mecánicas en poco tiempo.
@@ -6,6 +11,12 @@ Scripts básicos con los que formar un prototipo rápido y probar varias mecáni
 ## Informacion util
 
 > Es necesario Unity3D 5.5+ (Puede funcionar en otras versiones antiguas, pero no lo e probado).
+
+## Como se usa
+
+Desde el menu componentes/Moon Pincho/.. estaran todos los scripts, es muy sencillo usarlos, solo sigue las instrucciones.
+
+---
 
 ## Scripts
 
