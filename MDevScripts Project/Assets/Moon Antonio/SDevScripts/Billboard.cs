@@ -3,20 +3,20 @@
 // Billboard.cs (02/03/2017)													\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
 // Descripcion:		Rota el objeto para que siempre este mirando a camara		\\
-// Fecha Mod:		02/03/2017													\\
-// Ultima Mod:		Version Inicial												\\
+// Fecha Mod:		21/03/2017													\\
+// Ultima Mod:		Cambio de namespace											\\
 //******************************************************************************\\
 
 #region Librerias
 using UnityEngine;
 #endregion
 
-namespace MoonPincho.MDevScripts
+namespace MoonAntonio.MDevScripts
 {
 	/// <summary>
 	/// <para>Rota el objeto para que siempre este mirando a camara</para>
 	/// </summary>
-	[AddComponentMenu("MoonPincho/Dev/Billboard")]
+	[AddComponentMenu("MoonAntonio/Dev/Billboard")]
 	public class Billboard : MonoBehaviour 
 	{
 		#region Variables Publicas

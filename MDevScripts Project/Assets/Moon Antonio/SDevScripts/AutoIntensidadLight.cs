@@ -3,20 +3,20 @@
 // AutoDestroy.cs (21/02/2017)													\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
 // Descripcion:		Auto aumenta y disminuye la intensidad de la luz			\\
-// Fecha Mod:		21/02/2017													\\
-// Ultima Mod:		Version Inicial												\\
+// Fecha Mod:		21/03/2017													\\
+// Ultima Mod:		Cambio de namespace												\\
 //******************************************************************************\\
 
 #region Librerias
 using UnityEngine;
 #endregion
 
-namespace MoonPincho.MDevScripts
+namespace MoonAntonio.MDevScripts
 {
     /// <summary>
     /// <para>Auto aumenta y disminuye la intensidad de la luz</para>
     /// </summary>
-    [AddComponentMenu("MoonPincho/Dev/AutoIntensidadLight")]
+    [AddComponentMenu("MoonAntonio/Dev/AutoIntensidadLight")]
     [RequireComponent(typeof(Light))]
     public class AutoIntensidadLight : MonoBehaviour 
 	{

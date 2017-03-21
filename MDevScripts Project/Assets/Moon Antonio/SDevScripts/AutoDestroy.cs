@@ -3,20 +3,20 @@
 // AutoDestroy.cs (21/02/2017)													\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
 // Descripcion:		Autodestruye un objeto										\\
-// Fecha Mod:		21/02/2017													\\
-// Ultima Mod:		Version Inicial												\\
+// Fecha Mod:		21/03/2017													\\
+// Ultima Mod:		Cambio de namespace											\\
 //******************************************************************************\\
 
 #region Librerias
 using UnityEngine;
 #endregion
 
-namespace MoonPincho.MDevScripts
+namespace MoonAntonio.MDevScripts
 {
     /// <summary>
     /// <para>Autodestruye un objeto</para>
     /// </summary>
-    [AddComponentMenu("MoonPincho/Dev/AutoDestroy")]
+    [AddComponentMenu("MoonAntonio/Dev/AutoDestroy")]
     public class AutoDestroy : MonoBehaviour 
 	{
         #region Variables Publicas

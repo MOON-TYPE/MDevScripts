@@ -3,20 +3,20 @@
 // AutoMove.cs (21/02/2017)					    								\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
 // Descripcion:		Mueve un objeto     										\\
-// Fecha Mod:		21/02/2017													\\
-// Ultima Mod:		Version Inicial												\\
+// Fecha Mod:		21/03/2017													\\
+// Ultima Mod:		Cambio de namespace											\\
 //******************************************************************************\\
 
 #region Librerias
 using UnityEngine;
 #endregion
 
-namespace MoonPincho.MDevScripts
+namespace MoonAntonio.MDevScripts
 {
     /// <summary>
     /// <para>Mueve un objeto </para>
     /// </summary>
-    [AddComponentMenu("MoonPincho/Dev/AutoMove")]
+    [AddComponentMenu("MoonAntonio/Dev/AutoMove")]
     public class AutoMove : MonoBehaviour 
 	{
         #region Variables Publicas

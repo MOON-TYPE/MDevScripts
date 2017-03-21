@@ -3,21 +3,21 @@
 // DrawRay.cs (02/03/2017)														\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
 // Descripcion:		Dibuja un ray hasta el objetivo dado						\\
-// Fecha Mod:		02/03/2017													\\
-// Ultima Mod:		Version Inicial												\\
+// Fecha Mod:		21/03/2017													\\
+// Ultima Mod:		Cambio de namespace											\\
 //******************************************************************************\\
 
 #region Librerias
 using UnityEngine;
 #endregion
 
-namespace MoonPincho.MDevScripts
+namespace MoonAntonio.MDevScripts
 {
 	/// <summary>
 	/// <para>Dibuja un ray hasta el objetivo dado</para>
 	/// </summary>
 	[ExecuteInEditMode]
-	[AddComponentMenu("MoonPincho/Dev/DrawRay")]
+	[AddComponentMenu("MoonAntonio/Dev/DrawRay")]
 	public class DrawRay : MonoBehaviour 
 	{
 		#region Variables Publicas

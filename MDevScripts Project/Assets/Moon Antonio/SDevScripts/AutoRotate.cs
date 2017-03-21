@@ -3,20 +3,20 @@
 // AutoRotate.cs (02/03/2017)													\\
 // Autor: Antonio Mateo (Moon Pincho) 									        \\
 // Descripcion:		Rota el objeto en la direccion dada							\\
-// Fecha Mod:		02/03/2017													\\
-// Ultima Mod:		Version Inicial												\\
+// Fecha Mod:		21/03/2017													\\
+// Ultima Mod:		Cambio de namespace											\\
 //******************************************************************************\\
 
 #region Librerias
 using UnityEngine;
 #endregion
 
-namespace MoonPincho.MDevScripts
+namespace MoonAntonio.MDevScripts
 {
 	/// <summary>
 	/// <para>Rota el objeto en la direccion dada</para>
 	/// </summary>
-	[AddComponentMenu("MoonPincho/Dev/AutoRotate")]
+	[AddComponentMenu("MoonAntonio/Dev/AutoRotate")]
 	public class AutoRotate : MonoBehaviour 
 	{
 		#region Variables Publicas
